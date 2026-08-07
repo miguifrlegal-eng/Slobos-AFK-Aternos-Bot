@@ -9,7 +9,7 @@
     "ip": "Rezenha_SMP.aternos.me",
     "port": 44682,
     "version": "1.21.1",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
